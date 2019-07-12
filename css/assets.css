@@ -1,0 +1,40 @@
+/*Title Text*/
+.titleText {
+    color: lavenderblush;
+    font-family: "Helvetica";
+    font-weight: bold;
+    font-size: 5vw;
+}
+
+/*Regular Text*/
+/*Small Text*/
+/*navigation bar*/
+.navBar {
+    list-style-type: none;
+    overflow: hidden;
+    font-family: "Helvetica";
+    height: 4vw;
+    position: sticky;
+    top:0;
+    background-color: lavenderblush;
+    /*ugh why doesn't this work nicely?*/
+    margin-right: -0.25%;
+    margin-left: -0.25%;
+    margin-top: -1%;
+}
+  
+.navBullet {
+    font-size: 1.5vw;
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: bold;
+    float: right;
+}
+
+/*Scroll to the top button*/
+/*Icon links*/
+.icon {
+    width: 5vw;
+    height: 5vw;
+}
