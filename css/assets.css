@@ -7,7 +7,17 @@
 }
 
 /*Regular Text*/
+.middleText {
+    font-family: "Helvetica";
+    font-weight: bold;
+    font-size: 1.5vw;
+}
 /*Small Text*/
+.smallText {
+    font-family: "Helvetica";
+    font-weight: bold;
+    font-size: 0.5vw;
+}
 /*navigation bar*/
 .navBar {
     list-style-type: none;
