@@ -4,6 +4,12 @@
     font-family: "Helvetica";
     font-weight: bold;
     font-size: 5vw;
+
+    /*titles will always be formatted like this at the top of each section*/
+    text-align: Left;
+    padding: 2vw;
+    margin-left: 5vw;
+    margin-right: 5vw;
 }
 
 /*Regular Text*/

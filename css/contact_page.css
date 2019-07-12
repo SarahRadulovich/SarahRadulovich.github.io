@@ -1,0 +1,20 @@
+/*core look of this page*/
+.contactPage {
+    background-color: darksalmon;
+}
+
+.logo-grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    /*grid-template-rows: 100px 300px; idk if this is needed*/
+    grid-gap: 1vw;
+    padding: 2vw;
+    margin-left: 20vw;
+    margin-right: 20vw;
+}
+
+.contactText {
+    padding: 2vw;
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
