@@ -5,10 +5,10 @@ html {
 body {
   background-color: darksalmon;
 }
-  
+
 a:link, a:visited, a:hover, a:active {
   text-decoration: none;
-  color: maroon;
+  color: #38453f;
 }
   
 .homePage {
